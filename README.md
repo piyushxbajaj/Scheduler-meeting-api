@@ -42,6 +42,8 @@ PASS
 ok  	Home/piyush/dev/schduler-meeting-api	3.332s
 ```
 ## Usage
+
+2 features out of other features are displayed here 
 POST Create Meeting
 ```json
 {
